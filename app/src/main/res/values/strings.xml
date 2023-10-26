@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteOperaciones</string>
+    <string name="usuario">Nombre del usuario</string>
+    <string name="txtusuario">Introduzca el Nombre</string>
+    <string name="usuario_password">Contraseña</string>
+    <string name="txtpassword">Introduzca la Contraseña</string>
+    <string name="btn_agregar_usuario">usuario</string>
+</resources>
